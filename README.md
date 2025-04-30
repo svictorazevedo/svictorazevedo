@@ -1,6 +1,6 @@
 # 💼 Portfólio – Victor Silva Azevedo
 
-Sou profissional de TI com foco em ITSM, automação, desenvolvimento web e implantação de soluções como GLPI, RPA e monitoramento com Zabbix/Grafana.
+Sou profissional de TI com foco em ITSM, automação e implantação de soluções como GLPI.
 
 ## 🧠 Especialidades
 - GLPI (implantação, customização, plugins)
