@@ -8,9 +8,8 @@ Profissional de TI com foco em **ITSM, automação e GLPI**: implantação, cust
 ## 🧠 Especialidades
 
 - **GLPI**: implantação, customização e desenvolvimento de plugins (PHP, GLPI 11)
-- **Gestão de serviços**: ITIL, ISO 20000, ISO 27001
+- **Gestão de serviços**: ITIL, ISO 20000, ISO 27001, ISO 38500, LGPD
 - **Automação e IA**: integrações com n8n e assistentes de IA via MCP (Model Context Protocol)
-- **Indicadores**: dashboards em Grafana e BI de chamados e mudanças
 
 ## 🔌 Plugins para GLPI 11
 
@@ -26,5 +25,5 @@ Profissional de TI com foco em **ITSM, automação e GLPI**: implantação, cust
 
 ### 🔧 Reestruturação do GLPI no MPMT
 
-Padronização de categorias, urgência e prioridade, aplicação de SLAs, integração com dashboards em Grafana e criação de formulários inteligentes no Formcreator.
+Padronização de categorias, urgência e prioridade, aplicação de SLAs, integração com dashboards e criação de formulários inteligentes.
 🔗 [portaldeservicos.mpmt.mp.br](https://portaldeservicos.mpmt.mp.br)
